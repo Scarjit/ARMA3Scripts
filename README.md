@@ -1,5 +1,13 @@
-# Scripts
-* squad_teleport
-	* 	Allows players to teleport to a selected squad member, if he is alive.
-	* 	Features a preview
-	* 	Works with Vehicles
+## squad_teleport
+
+### Description
+Allows Players to teleport to other alive Squadmembers
+### Requirements
+libs\keydown.sqf
+	
+## grasscutter
+
+### Description
+Cuts down grass in a marked area
+Create a rectangular marker, whichs name begins with "grasscutter"
+The marker will be removed afterwards
