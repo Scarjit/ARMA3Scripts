@@ -11,3 +11,8 @@ libs\keydown.sqf
 Cuts down grass in a marked area
 Create a rectangular marker, whichs name begins with "grasscutter"
 The marker will be removed afterwards
+
+## artySim
+
+### Description
+Fires artillery shells inside a trigger area, without hurting the players.
